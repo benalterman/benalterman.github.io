@@ -1,2 +1,1 @@
-# benalterman.github.io
-personal website
+# https://linktr.ee/ben_alterman
